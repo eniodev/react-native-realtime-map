@@ -18,7 +18,10 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "ios.bundleIdentifier": "com.reactnative.iosgooglemaps",
+      "ios.config.googleMapsApiKey": "AIzaSyAw8awjbpQJmFdVN6Nmn5USYtVOJXq3d0w"
+
     },
     "android": {
       "adaptiveIcon": {
