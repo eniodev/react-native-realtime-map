@@ -1,4 +1,4 @@
-# Google Maps / Tracking User Location
+# Google Maps : Tracking User Location
 <p>Implementing Google Maps and Tracking User Location in React Native!</p>
 
 
