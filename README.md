@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/49740149/219880947-a5c31f1c-dfba-49e4-
 In order for Google Maps to work on iPhone you need to:
 
 - 1. <h4>Register a Google Cloud API project and enable the Maps SDK for iOS</h4>
-- 2. <h4>Create an API key</h4>
+- 2. <h4>Generate an API key</h4>
 - 3. <h4>Add the API key to your project</h4>
 
 Full doc: <a href="https://docs.expo.dev/versions/latest/sdk/map-view/">Configuring Map View</a>
